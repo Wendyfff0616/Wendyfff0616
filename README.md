@@ -1,7 +1,7 @@
 # Hi 👋, I'm Wendy
 
 ### 💻 About Me
-- 🎓 Computer Science student at University of Sydney
+- 🎓 **Computer Science** student at University of Sydney
 - 🎨 Interested in **UI/UX Design** and **AI**
 - 🌟 [Personal portfolio](my-portfolio-kappa-six-82.vercel.app)
 
