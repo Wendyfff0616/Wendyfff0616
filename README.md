@@ -3,7 +3,7 @@
 ### 💻 About Me
 - 🎓 **Computer Science** student at University of Sydney
 - 🎨 Interested in **UI/UX Design** and **AI**
-- 🌟 [My Portfolio](https://my-portfolio-kappa-six-82.vercel.app/)
+- 🌟 [My Portfolio](https://my-portfolio-kappa-six-82.vercel.app/](https://wendyfff.framer.website/)
 - 🔷 [My Behance](https://www.behance.net/wenyufan)
 
 ### 📫 Contact Me:
