@@ -31,13 +31,13 @@
 <!-- ISSUES-LIST:START -->
 📊 **Issues Overview**: 4 Open • 0 Closed • 4 Total (Deduplicated)
 
-## 👤 Assigned to Me (0 Open, 0 Closed)
+##### 👤 Assigned to Me (0 Open, 0 Closed)
 
 *No assigned to me found*
 
 ---
 
-## ✨ Created by Me (2 Open, 0 Closed)
+##### ✨ Created by Me (2 Open, 0 Closed)
 
 1. 🟢 **[[Bug Report]: OpenAI Provider Returns 404 Error While Direct API Calls Work Fine](https://github.com/bytedance/UI-TARS-desktop/issues/858)**
    📂 bytedance/UI-TARS-desktop • 📅 Jul 2, 2025 • 🏷️ `Bug` `Good first issue` `Agent TARS`
@@ -47,7 +47,7 @@
 
 ---
 
-## @ Mentioned (4 Open, 0 Closed)
+##### @ Mentioned (4 Open, 0 Closed)
 
 1. 🟢 **[[Bug Report]: OpenAI Provider Returns 404 Error While Direct API Calls Work Fine](https://github.com/bytedance/UI-TARS-desktop/issues/858)**
    📂 bytedance/UI-TARS-desktop • 📅 Jul 2, 2025 • 🏷️ `Bug` `Good first issue` `Agent TARS`
@@ -63,7 +63,7 @@
 
 ---
 
-## 🕒 Recent Activity (4 Open, 0 Closed)
+##### 🕒 Recent Activity (4 Open, 0 Closed)
 
 1. 🟢 **[🖼️ Agent TARS Use case & Bad Case](https://github.com/bytedance/UI-TARS-desktop/issues/842)**
    📂 bytedance/UI-TARS-desktop • 📅 Jul 3, 2025 • 🏷️ `Feature`
