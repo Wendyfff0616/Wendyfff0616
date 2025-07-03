@@ -29,7 +29,7 @@
 [![Recent Activity](https://img.shields.io/badge/dynamic/json?color=purple&label=Involved&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dinvolves%3AWendyfff0616%2Bis%3Aissue)](https://github.com/search?q=involves:Wendyfff0616+is:issue)
 
 <!-- ISSUES-LIST:START -->
-📊 **Issues Overview**: 0 Open • 0 Closed • 0 Total
+📊 **Issues Overview**: 10 Open • 0 Closed • 10 Total
 
 ## 👤 Assigned to Me
 
@@ -39,19 +39,43 @@
 
 ## ✨ Created by Me
 
-*No created by me found*
+1. 🟢 **[[Bug Report]: OpenAI Provider Returns 404 Error While Direct API Calls Work Fine](https://github.com/bytedance/UI-TARS-desktop/issues/858)**
+   📂 bytedance/UI-TARS-desktop • 📅 Jul 2, 2025 • 🏷️ `Bug` `Good first issue` `Agent TARS`
+
+2. 🟢 **[[Feature]: Support / documentation for Azure OpenAI configuration](https://github.com/bytedance/UI-TARS-desktop/issues/856)**
+   📂 bytedance/UI-TARS-desktop • 📅 Jul 3, 2025 • 🏷️ `Feature`
 
 ---
 
 ## @ Mentioned
 
-*No mentioned found*
+1. 🟢 **[[Bug Report]: OpenAI Provider Returns 404 Error While Direct API Calls Work Fine](https://github.com/bytedance/UI-TARS-desktop/issues/858)**
+   📂 bytedance/UI-TARS-desktop • 📅 Jul 2, 2025 • 🏷️ `Bug` `Good first issue` `Agent TARS`
+
+2. 🟢 **[[Feature]: Support / documentation for Azure OpenAI configuration](https://github.com/bytedance/UI-TARS-desktop/issues/856)**
+   📂 bytedance/UI-TARS-desktop • 📅 Jul 3, 2025 • 🏷️ `Feature`
+
+3. 🟢 **[[Bug] GUI Agent cannot click expanded <select>](https://github.com/bytedance/UI-TARS-desktop/issues/855)**
+   📂 bytedance/UI-TARS-desktop • 📅 Jul 1, 2025 • 🏷️ `Bug` `Agent TARS` `Agent TARS - Agent`
+
+4. 🟢 **[🖼️ Agent TARS Use case & Bad Case](https://github.com/bytedance/UI-TARS-desktop/issues/842)**
+   📂 bytedance/UI-TARS-desktop • 📅 Jul 3, 2025 • 🏷️ `Feature`
 
 ---
 
 ## 🕒 Recent Activity
 
-*No recent activity found*
+1. 🟢 **[🖼️ Agent TARS Use case & Bad Case](https://github.com/bytedance/UI-TARS-desktop/issues/842)**
+   📂 bytedance/UI-TARS-desktop • 📅 Jul 3, 2025 • 🏷️ `Feature`
+
+2. 🟢 **[[Feature]: Support / documentation for Azure OpenAI configuration](https://github.com/bytedance/UI-TARS-desktop/issues/856)**
+   📂 bytedance/UI-TARS-desktop • 📅 Jul 3, 2025 • 🏷️ `Feature`
+
+3. 🟢 **[[Bug Report]: OpenAI Provider Returns 404 Error While Direct API Calls Work Fine](https://github.com/bytedance/UI-TARS-desktop/issues/858)**
+   📂 bytedance/UI-TARS-desktop • 📅 Jul 2, 2025 • 🏷️ `Bug` `Good first issue` `Agent TARS`
+
+4. 🟢 **[[Bug] GUI Agent cannot click expanded <select>](https://github.com/bytedance/UI-TARS-desktop/issues/855)**
+   📂 bytedance/UI-TARS-desktop • 📅 Jul 1, 2025 • 🏷️ `Bug` `Agent TARS` `Agent TARS - Agent`
 
 ---
 
