@@ -69,6 +69,31 @@ async function getIssuesByCategory() {
   }
 }
 
+function getUniqueIssuesStats(categories) {
+  // 使用 Map 来去重，key 是 issue ID
+  const uniqueIssues = new Map();
+  
+  // 收集所有 issues 并去重
+  Object.values(categories).forEach(category => {
+    category.issues.forEach(issue => {
+      uniqueIssues.set(issue.id, issue);
+    });
+  });
+  
+  // 计算统计数据
+  const allUniqueIssues = Array.from(uniqueIssues.values());
+  const totalOpen = allUniqueIssues.filter(issue => issue.state === 'open').length;
+  const totalClosed = allUniqueIssues.filter(issue => issue.state === 'closed').length;
+  const totalIssues = allUniqueIssues.length;
+  
+  return {
+    totalOpen,
+    totalClosed,
+    totalIssues,
+    uniqueIssues: allUniqueIssues
+  };
+}
+
 function formatIssuesContent(categories) {
   if (!categories || Object.keys(categories).length === 0) {
     return '*No issues found or issues are loading...*';
@@ -76,23 +101,18 @@ function formatIssuesContent(categories) {
 
   let content = '';
   
-  // 添加总体统计
-  let totalIssues = 0;
-  let totalOpen = 0;
-  let totalClosed = 0;
+  // 计算去重后的统计数据
+  const stats = getUniqueIssuesStats(categories);
   
-  Object.values(categories).forEach(category => {
-    totalIssues += category.issues.length;
-    totalOpen += category.issues.filter(issue => issue.state === 'open').length;
-    totalClosed += category.issues.filter(issue => issue.state === 'closed').length;
-  });
-  
-  content += `📊 **Issues Overview**: ${totalOpen} Open • ${totalClosed} Closed • ${totalIssues} Total\n\n`;
+  content += `📊 **Issues Overview**: ${stats.totalOpen} Open • ${stats.totalClosed} Closed • ${stats.totalIssues} Total (Deduplicated)\n\n`;
   
   // 为每个分类添加内容
   Object.entries(categories).forEach(([key, category]) => {
     if (category.issues.length > 0) {
-      content += `## ${category.emoji} ${category.title}\n\n`;
+      const categoryOpen = category.issues.filter(issue => issue.state === 'open').length;
+      const categoryClosed = category.issues.filter(issue => issue.state === 'closed').length;
+      
+      content += `## ${category.emoji} ${category.title} (${categoryOpen} Open, ${categoryClosed} Closed)\n\n`;
       
       category.issues.forEach((issue, index) => {
         const emoji = issue.state === 'open' ? '🟢' : '🔴';
@@ -117,7 +137,7 @@ function formatIssuesContent(categories) {
       
       content += '---\n\n';
     } else {
-      content += `## ${category.emoji} ${category.title}\n\n`;
+      content += `## ${category.emoji} ${category.title} (0 Open, 0 Closed)\n\n`;
       content += `*No ${category.title.toLowerCase()} found*\n\n`;
       content += '---\n\n';
     }
