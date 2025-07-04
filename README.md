@@ -40,7 +40,7 @@
 ## ✨ Created by Me (2 Open, 0 Closed)
 
 1. 🟢 **[[Bug Report]: OpenAI Provider Returns 404 Error While Direct API Calls Work Fine](https://github.com/bytedance/UI-TARS-desktop/issues/858)**
-   📂 bytedance/UI-TARS-desktop • 📅 Jul 2, 2025 • 🏷️ `Bug` `Good first issue` `Agent TARS`
+   📂 bytedance/UI-TARS-desktop • 📅 Jul 3, 2025 • 🏷️ `Bug` `Good first issue` `Agent TARS`
 
 2. 🟢 **[[Feature]: Support / documentation for Azure OpenAI configuration](https://github.com/bytedance/UI-TARS-desktop/issues/856)**
    📂 bytedance/UI-TARS-desktop • 📅 Jul 3, 2025 • 🏷️ `Feature`
@@ -50,7 +50,7 @@
 ## @ Mentioned (4 Open, 0 Closed)
 
 1. 🟢 **[[Bug Report]: OpenAI Provider Returns 404 Error While Direct API Calls Work Fine](https://github.com/bytedance/UI-TARS-desktop/issues/858)**
-   📂 bytedance/UI-TARS-desktop • 📅 Jul 2, 2025 • 🏷️ `Bug` `Good first issue` `Agent TARS`
+   📂 bytedance/UI-TARS-desktop • 📅 Jul 3, 2025 • 🏷️ `Bug` `Good first issue` `Agent TARS`
 
 2. 🟢 **[[Feature]: Support / documentation for Azure OpenAI configuration](https://github.com/bytedance/UI-TARS-desktop/issues/856)**
    📂 bytedance/UI-TARS-desktop • 📅 Jul 3, 2025 • 🏷️ `Feature`
@@ -65,14 +65,14 @@
 
 ## 🕒 Recent Activity (4 Open, 0 Closed)
 
-1. 🟢 **[🖼️ Agent TARS Use case & Bad Case](https://github.com/bytedance/UI-TARS-desktop/issues/842)**
+1. 🟢 **[[Bug Report]: OpenAI Provider Returns 404 Error While Direct API Calls Work Fine](https://github.com/bytedance/UI-TARS-desktop/issues/858)**
+   📂 bytedance/UI-TARS-desktop • 📅 Jul 3, 2025 • 🏷️ `Bug` `Good first issue` `Agent TARS`
+
+2. 🟢 **[🖼️ Agent TARS Use case & Bad Case](https://github.com/bytedance/UI-TARS-desktop/issues/842)**
    📂 bytedance/UI-TARS-desktop • 📅 Jul 3, 2025 • 🏷️ `Feature`
 
-2. 🟢 **[[Feature]: Support / documentation for Azure OpenAI configuration](https://github.com/bytedance/UI-TARS-desktop/issues/856)**
+3. 🟢 **[[Feature]: Support / documentation for Azure OpenAI configuration](https://github.com/bytedance/UI-TARS-desktop/issues/856)**
    📂 bytedance/UI-TARS-desktop • 📅 Jul 3, 2025 • 🏷️ `Feature`
-
-3. 🟢 **[[Bug Report]: OpenAI Provider Returns 404 Error While Direct API Calls Work Fine](https://github.com/bytedance/UI-TARS-desktop/issues/858)**
-   📂 bytedance/UI-TARS-desktop • 📅 Jul 2, 2025 • 🏷️ `Bug` `Good first issue` `Agent TARS`
 
 4. 🟢 **[[Bug] GUI Agent cannot click expanded <select>](https://github.com/bytedance/UI-TARS-desktop/issues/855)**
    📂 bytedance/UI-TARS-desktop • 📅 Jul 1, 2025 • 🏷️ `Bug` `Agent TARS` `Agent TARS - Agent`
