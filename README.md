@@ -2,7 +2,7 @@
 
 ### 💻 About Me
 - 🎓 Computer Science student @ University of Sydney
-- 🎨 Passionate about Human–Computer Interaction (HCI)
+- 🎨 Passionate about Human–Computer Interaction (HCI) + AI
 - 🔬 Researching Investigating AI’s Impact on Writing Education
 
 - 🌟 [My Portfolio](https://wendyfff.framer.website/)
