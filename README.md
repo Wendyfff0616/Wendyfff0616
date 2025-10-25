@@ -3,7 +3,7 @@
 ### 💻 About Me
 - 🎓 Computer Science student @ University of Sydney
 - 🎨 Passionate about Human–Computer Interaction (HCI) + AI
-- 🔬 Researching Investigating AI’s Impact on Writing Education
+- 🔬 Researching the roles of AI literacy and AI policy in university students' writing education
 
 - 🌟 [My Portfolio](https://wendyfff.framer.website/)
 - 🔷 [My Behance](https://www.behance.net/wenyufan)
@@ -11,7 +11,7 @@
 
 ### 📫 Contact Me:
 - 📧 [wfan0971@uni.sydney.edu.au](mailto:wfan0971@uni.sydney.edu.au)
-- 🌐 [LinkedIn](https://linkedin.com/in/wenyu-fan)
+- 🌐 [LinkedIn](https://linkedin.com/in/wendy-fan)
 
 ---
 
