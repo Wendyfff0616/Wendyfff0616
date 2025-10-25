@@ -3,8 +3,8 @@
 ### 💻 About Me
 - 🎓 Computer Science student @ University of Sydney
 - 🎨 Passionate about Human–Computer Interaction (HCI) + AI
-- 🔬 Researching the roles of AI literacy and AI policy in university students' writing education
-
+- 🔬 Researching how AI literacy and policy affect students’ academic writing
+  
 - 🌟 [My Portfolio](https://wendyfff.framer.website/)
 - 🔷 [My Behance](https://www.behance.net/wenyufan)
 - 📕 [My Rednote](https://www.xiaohongshu.com/user/profile/6432ad8c000000000d01b1e5)
