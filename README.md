@@ -11,7 +11,7 @@
 
 ### 📫 Contact Me:
 - 📧 [wfan0971@uni.sydney.edu.au](mailto:wfan0971@uni.sydney.edu.au)
-- 🌐 [LinkedIn](https://linkedin.com/in/wendy-fan)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/wendy-fan-a831782b5/)
 
 ---
 
