@@ -1,5 +1,7 @@
 # Hi 👋, I'm Wendy 🌊
 
+---
+
 ### 💻 About Me
 - 🎓 Computer Science student @ University of Sydney
 - 🎨 Passionate about Human–Computer Interaction (HCI) + AI
@@ -19,8 +21,3 @@
 [![Issues Assigned](https://img.shields.io/badge/dynamic/json?color=green&label=Assigned&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dassignee%3AWendyfff0616%2Bis%3Aissue)](https://github.com/search?q=assignee:Wendyfff0616+is:issue)
 [![Issues Mentioned](https://img.shields.io/badge/dynamic/json?color=orange&label=Mentioned&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dmentions%3AWendyfff0616%2Bis%3Aissue)](https://github.com/search?q=mentions:Wendyfff0616+is:issue)
 [![Recent Activity](https://img.shields.io/badge/dynamic/json?color=purple&label=Involved&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dinvolves%3AWendyfff0616%2Bis%3Aissue)](https://github.com/search?q=involves:Wendyfff0616+is:issue)
-
----
-
-
-<!-- ISSUES-LIST:END -->
