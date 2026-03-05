@@ -7,7 +7,7 @@
 - 🎨 Passionate about Human–Computer Interaction (HCI) & AI in Education
 - 🔬 Researching how AI literacy and policy affect students’ academic writing
   
-🌟 [Portfolio](https://wendyfff.framer.website/) · 🔷 [Behance](https://www.behance.net/wenyufan) · 🎨 [Figma](https://www.figma.com/@wenyufan) · 📕 [Rednote](https://www.xiaohongshu.com/user/profile/6432ad8c000000000d01b1e5)
+🌟 [Portfolio](https://wendyfan-website.vercel.app/) · 🔷 [Behance](https://www.behance.net/wenyufan) · 🎨 [Figma](https://www.figma.com/@wenyufan) · 📕 [Rednote](https://www.xiaohongshu.com/user/profile/6432ad8c000000000d01b1e5)
 
 ### 📫 Contact Me:
 - 📧 [wfan0971@uni.sydney.edu.au](mailto:wfan0971@uni.sydney.edu.au)
